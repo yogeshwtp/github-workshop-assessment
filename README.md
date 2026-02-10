@@ -1,4 +1,4 @@
-# GitHub Workshop Assessment - Branch A Version
+# GitHub Workshop Assessment - Merged Version
 
 **Name:** Yogesh
 
