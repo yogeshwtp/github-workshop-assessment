@@ -1,7 +1,7 @@
 # GitHub Workshop Assessment
 
-**Name:** [Your Name]
+**Name:** Yogesh
 
-**College:** [Your College Name]
+**College:** kalasalingam university
 
-**Workshop Date:** [Today's Date - February 10, 2026]
+**Workshop Date:** Today's Date - February 10, 2026
